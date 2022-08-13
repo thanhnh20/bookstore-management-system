@@ -1,0 +1,43 @@
+.head{
+    height: 90px;
+    background-color: #080a52;
+    display: flex;
+    justify-content: space-between;
+}
+.foot{
+    height: 80px;
+    background-color: #3d155f;
+}
+.search{
+    margin: 25px auto 0;
+    max-width: 600px;
+    display: flex;
+}
+.childSearch{
+    margin-right: 10px;
+}
+.numberResult{
+    text-align: left;
+    margin-left: 200px;
+    margin: 10px 0 0 200px;
+}
+.row{
+    margin: 10px 120px;
+}
+.card{
+    margin: 20px auto ;
+}
+.link{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+    margin: auto 0;
+    padding: 20px;
+}
+.link:hover{
+    color: #eb2188;
+}
+.user{
+    margin: auto 0;
+}
+
